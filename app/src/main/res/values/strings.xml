@@ -1,6 +1,8 @@
 <resources>
-	<string name="app_name">Ideal Body Weight</string>
+    <string name="app_name">Ideal Body Weight</string>
 
-	<!-- TODO: Remove or change this placeholder text -->
-	<string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">The program is created by</string>
+    <string name="text2"></string>
 </resources>
